@@ -10,4 +10,10 @@ The protests, which were sparked on 16 September after the death of a 22-year-ol
 
 This comes as anti-regime demonstrations spilled into cyberspace, with videos of women burning their hijabs going viral. Other women have been posting emotional videos in which they cut their hair in protest under the hashtag #Mahsa_Amini.
 
-
+After the Iranian government banned access to social media, many people and especially those who work in IT Technology faces many problems, so to resolve that, one of the ways was making a Tunnel between two VPS that one of which is in Iran and another VPS occur on a foreign country and send the traffics to a foreign data center and use free internet.
+with this bash script, you can make a tunnel between two servers:
+ 
+ running bash:
+ 
+ chmod +x GRE_Tunnel.sh
+ ./GRE_Tunnel.sh
